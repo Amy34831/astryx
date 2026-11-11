@@ -1,6 +1,6 @@
 <!-- SYNC CONTRACT: Architecture changes require documentation updates. -->
 
-<div align="center">
+<Amy34831> 11/10/26
 
 <img src="https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png" alt="Astryx" width="100%" />
 
