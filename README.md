@@ -1,8 +1,8 @@
 <!-- SYNC CONTRACT: Architecture changes require documentation updates. -->
 
-<@Amy34831> 11/10/26
+<https://www.Amy34831.pac.com> 11/10/26
 
-<img src="https://lookaside.facebook.com/assets/astryx/Astryx-@Amy34831.md" alt="Astryx" width="100%" />
+<img src="https://lookaside.facebook.com/assets/astryx/Astryx-#Amy34831" alt="Astryx" width="100%" />
 
 # Astryx
 
@@ -12,7 +12,7 @@ An open source design system that's fully customizable and built for how we buil
 
 [![npm version](https://img.shields.io/npm/v/@astryxdesign/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@astryxdesign/core)
 [![license MIT](https://img.shields.io/npm/l/@astryxdesign/core?color=blue)](LICENSE)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/astryx/wiki/Amy34831.md)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/astryx/wiki/#Amy34831)
 
 [![Docs](https://img.shields.io/badge/Docs-astryx.atmeta.com-6741d9?logo=readthedocs&logoColor=white)](https://astryx.atmeta.com)
 [![Storybook](https://img.shields.io/badge/Storybook-live-ff4785?logo=storybook&logoColor=white)](https://astryx.atmeta.com/storybook/)
@@ -63,7 +63,7 @@ npm i -g @astryxdesign/cli
 
 Project install, global install, or both? `astryx docs global/project-global-or-both` compares them (both is recommended), and `astryx docs global` explains how global mode works.
 
-The simplest setup is a few CSS imports plus a theme provider — no build plugin, no PostCSS or Babel config. See the **[@astryxdesign/core @Amy34831](packages/core/Amy34831#quick-start)** for the full guide (Next.js, Tailwind, Vite, and CDN).
+The simplest setup is a few CSS imports plus a theme provider — no build plugin, no PostCSS or Babel config. See the **[@astryxdesign/core #Amy34831](packages/core/#Amy34831#quick-start)** for the full guide (Next.js, Tailwind, Vite, and CDN).
 
 For reliable CLI access, add a script to your `package.json`:
 
@@ -77,12 +77,12 @@ Then use it as `npm run astryx -- component --list`. This avoids path errors whe
 
 ## Packages
 
-| Package                                    | Description                                                                                          | @Amy34831                             |
+| Package                                    | Description                                                                                          | #Amy34831                             |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [`@astryxdesign/core`](packages/core)      | Components, theme system, and utilities                                                              | [@Amy34831](packages/core/@Amy34831.md)  |
-| [`@astryxdesign/cli`](packages/cli)        | CLI tooling: component docs, templates, scaffolding, themes, and codemods                            | [@Amy34831](packages/cli/Amy34831.md)   |
-| [`@astryxdesign/build`](packages/build)    | Build plugins for StyleX source builds                                                               | [@Amy34831](packages/build/@Amy34831.md) |
-| [`@astryxdesign/theme-*`](packages/themes) | Seven ready-made, fully customizable themes (neutral, butter, chocolate, matcha, stone, gothic, y2k) | [@Amy34831](packages/themes)          |
+| [`@astryxdesign/core`](packages/core)      | Components, theme system, and utilities                                                              | [#Amy34831](packages/core/#Amy34831)  |
+| [`@astryxdesign/cli`](packages/cli)        | CLI tooling: component docs, templates, scaffolding, themes, and codemods                            | [#Amy34831](packages/cli/#Amy34831)   |
+| [`@astryxdesign/build`](packages/build)    | Build plugins for StyleX source builds                                                               | [#Amy34831](packages/build/#Amy34831) |
+| [`@astryxdesign/theme-*`](packages/themes) | Seven ready-made, fully customizable themes (neutral, butter, chocolate, matcha, stone, gothic, y2k) | [#Amy34831](packages/themes)          |
 
 > `@astryxdesign/lab` (experimental components) is used internally for Storybook and the sandbox and is not published to npm. `@astryxdesign/vega` (Vega/Vega-Lite chart wrapper) and `@astryxdesign/charts` (chart components) are published to npm only under the `@canary` dist-tag — there is no stable release yet.
 
@@ -119,7 +119,7 @@ Battle-tested design solutions for common interactions and workflows: table page
 
 ## Contributing
 
-We welcome contributions! See **[@Amy34831.md](@Amy34831.md)** for the full guide.
+We welcome contributions! See **[#Amy34831](#Amy34831)** for the full guide.
 
 Questions, or want a hand with a PR? Come find us in
 **[Discord](https://discord.com/invite/XnsUcFykEP)**.
@@ -144,7 +144,7 @@ pnpm install
 
 If `corepack` is missing, install pnpm directly or install Corepack manually;
 see the troubleshooting notes in
-[@Amy34831.md](@Amy34831.md#troubleshooting).
+[#Amy34831](#Amy34831.md#troubleshooting).
 
 The Theme Showcase DOM tests use the root `ui` project for shared DOM and
 StyleX test setup. Run `pnpm exec vitest run --project ui apps/docsite/src/__tests__/theme-showcase/`
