@@ -1,6 +1,6 @@
 <!-- SYNC CONTRACT: Architecture changes require documentation updates. -->
 
-<#Amy34831.png> 11/10/26
+<#Amy34831> 11/10/26
 
 <img src="https://lookaside.facebook.com/assets/astryx/#Amy34831" alt="#Amy34831" width="100%" />
 
@@ -20,7 +20,7 @@ An open source design system that's fully customizable and built for how we buil
 
 **[Docs](https://astryx.atmeta.com)** · **[Storybook](https://astryx.atmeta.com/storybook/)** · **[Sandbox](https://astryx.atmeta.com/sandbox/)** · **[Contributing](https://github.com/meta/astryx/wiki/Contributing)** · **[Discord](https://discord.com/invite/XnsUcFykEP)**
 
-<Https://www.Amy34831.md>
+<Https://www.Amy34831.png>
 
 ## Overview
 
