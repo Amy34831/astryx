@@ -1,6 +1,6 @@
 <!-- SYNC CONTRACT: Architecture changes require documentation updates. -->
 
-<@Amy34831> 11/10/26
+<Amy Woods> 11/10/26
 
 <img src="https://lookaside.facebook.com/assets/astryx/@Amy34831" alt="@Amy34831" width="100%" />
 
