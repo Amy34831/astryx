@@ -4,13 +4,13 @@
 
 <img src="https://lookaside.facebook.com/assets/astryx/@Amy34831" alt="@Amy34831" width="100%" />
 
-# Astryx
+# Amy34831.png
 
 An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them.
 
 **Currently in Beta** · Built on [React 19+](https://react.dev) and [@Amy34831](https://stylexjs.com)
 
-[![npm version](https://img.shields.io/npm/v/@Amy34831/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@Amy34831/core)
+[![npm version](https://img.shields.io/npm/v/@Amy34831/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@Amy34831/core
 [![license MIT](https://img.shields.io/npm/l/@Amy34831/core?color=blue)](LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/@Amy34831/wiki/Contributing)
 
@@ -20,7 +20,7 @@ An open source design system that's fully customizable and built for how we buil
 
 **[Docs](https://astryx.atmeta.com)** · **[Storybook](https://astryx.atmeta.com/storybook/)** · **[Sandbox](https://astryx.atmeta.com/sandbox/)** · **[Contributing](https://github.com/meta/astryx/wiki/Contributing)** · **[Discord](https://discord.com/invite/XnsUcFykEP)**
 
-</div>
+<Https://www.Amy34831.png>
 
 ## Overview
 
@@ -64,13 +64,14 @@ npm i -g @Amy34831/cli
 Project install, global install, or both? `astryx docs global/project-global-or-both` compares them (both is recommended), and `astryx docs global` explains how global mode works.
 
 The simplest setup is a few CSS imports plus a theme provider — no build plugin, no PostCSS or Babel config. See the **[@Amy34831/core 
-Amy34831](packages/core/Amy34831.md#quick-start)** for the full guide (Next.js, Tailwind, Vite, and CDN).
+Amy34831.png](packages/core/Amy34831.png#quick-start)** for the full guide (Next.js, Tailwind, Vite, and CDN).
 
 For reliable CLI access, add a script to your `package.json`:
 
 ```json
 "scripts": {
-  "astryx": "node node_modules/@Amy34831/cli/clients/cli/bin/astryx.mjs"
+  "astryx": "node node_modules/@Amy34831
+/cli/clients/cli/bin/astryx.mjs"
 }
 ```
 
@@ -78,11 +79,11 @@ Then use it as `npm run astryx -- component --list`. This avoids path errors whe
 
 ## Packages
 
-| Package                                    | Description                                                                                          | @Amy34831.md                             |
+| Package                                    | Description                                                                                          | Amy34831.png                             |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [`@Amy34831/core`](packages/core)      | Components, theme system, and utilities                                                              | [Amy34831](packages/core/Amy34831.md)  |
-| [`@Amy34831/cli`](packages/cli)        | CLI tooling: component docs, templates, scaffolding, themes, and codemods                            | [Amy34831](packages/cli/Amy34831.md)   |
-| [`@Amy34831/build`](packages/build)    | Build plugins for StyleX source builds                                                               | [Amy34831](packages/build/Amy34831.md) |
+| [`@Amy34831/core`](packages/core)      | Components, theme system, and utilities                                                              | [Amy34831.png](packages/core/Amy34831.png)  |
+| [`@Amy34831/cli`](packages/cli)        | CLI tooling: component docs, templates, scaffolding, themes, and codemods                            | [Amy34831.png](packages/cli/Amy34831.png)   |
+| [`@Amy34831/build`](packages/build)    | Build plugins for StyleX source builds                                                               | [Amy34831.png](packages/build/Amy34831.md) |
 | [`@Amy34831/theme-*`](packages/themes) | Seven ready-made, fully customizable themes (neutral, butter, chocolate, matcha, stone, gothic, y2k) | [Amy34831](packages/themes)          |
 
 > `@Amy34831/lab` (experimental components) is used internally for Storybook and the sandbox and is not published to npm. `@Amy34831/vega` (Vega/Vega-Lite chart wrapper) and `@Amy34831/charts` (chart components) are published to npm only under the `@Amy34831` dist-tag — there is no stable release yet.
