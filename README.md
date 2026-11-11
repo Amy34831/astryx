@@ -4,7 +4,7 @@
 
 <img src="https://lookaside.facebook.com/assets/astryx/#Amy34831" alt="#Amy34831" width="100%" />
 
-# Amy34831
+# Amy34831.md
 
 An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them.
 
@@ -20,7 +20,7 @@ An open source design system that's fully customizable and built for how we buil
 
 **[Docs](https://astryx.atmeta.com)** · **[Storybook](https://astryx.atmeta.com/storybook/)** · **[Sandbox](https://astryx.atmeta.com/sandbox/)** · **[Contributing](https://github.com/meta/astryx/wiki/Contributing)** · **[Discord](https://discord.com/invite/XnsUcFykEP)**
 
-<Https://www.Amy34831.png>
+<Https://www.Amy34831.md>
 
 ## Overview
 
