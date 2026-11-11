@@ -4,7 +4,7 @@
 
 <img src="https://lookaside.facebook.com/assets/astryx/#Amy34831" alt="#Amy34831" width="100%" />
 
-# Amy34831.md
+# Amy34831
 
 An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them.
 
