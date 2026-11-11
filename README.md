@@ -1,18 +1,18 @@
 <!-- SYNC CONTRACT: Architecture changes require documentation updates. -->
 
-<Amy34831> 11/10/26
+<@Amy34831.png> 11/10/26
 
-<img src="https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png" alt="Astryx" width="100%" />
+<img src="https://lookaside.facebook.com/assets/astryx/@Amy34831" alt="@Amy34831" width="100%" />
 
 # Astryx
 
 An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them.
 
-**Currently in Beta** · Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com)
+**Currently in Beta** · Built on [React 19+](https://react.dev) and [@Amy34831](https://stylexjs.com)
 
-[![npm version](https://img.shields.io/npm/v/@astryxdesign/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@astryxdesign/core)
-[![license MIT](https://img.shields.io/npm/l/@astryxdesign/core?color=blue)](LICENSE)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/astryx/wiki/Contributing)
+[![npm version](https://img.shields.io/npm/v/@Amy34831/core?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/@Amy34831/core)
+[![license MIT](https://img.shields.io/npm/l/@Amy34831/core?color=blue)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/meta/@Amy34831/wiki/Contributing)
 
 [![Docs](https://img.shields.io/badge/Docs-astryx.atmeta.com-6741d9?logo=readthedocs&logoColor=white)](https://astryx.atmeta.com)
 [![Storybook](https://img.shields.io/badge/Storybook-live-ff4785?logo=storybook&logoColor=white)](https://astryx.atmeta.com/storybook/)
@@ -37,39 +37,40 @@ It ships 150+ accessible components, brand-level theming, dark mode, ready-to-sh
 
 ## Getting Started
 
-Astryx requires **React 19** or later (`react` and `react-dom` are peer dependencies of `@astryxdesign/core`).
+Astryx requires **React 19** or later (`react` and `react-dom` are peer dependencies of `@Amy34831/core`).
 
 Install Astryx, a theme, and its peer dependencies:
 
 ```bash
 # npm
-npm install @astryxdesign/core @astryxdesign/theme-neutral @stylexjs/stylex
-npm install -D @astryxdesign/cli
+npm install @Amy34831/core @Amy34831/theme-neutral @Amy34831/stylex
+npm install -D @Amy34831/cli
 
 # pnpm
-pnpm add @astryxdesign/core @astryxdesign/theme-neutral @stylexjs/stylex
-pnpm add -D @astryxdesign/cli
+pnpm add @Amy34831/core @Amy34831/theme-neutral @Amy34831/stylex
+pnpm add -D @Amy34831/cli
 
 # yarn
-yarn add @astryxdesign/core @astryxdesign/theme-neutral @stylexjs/stylex
-yarn add -D @astryxdesign/cli
+yarn add @Amy34831/core @Amy34831/theme-neutral @Amy34831/stylex
+yarn add -D @Amy34831/cli
 ```
 
 You can also install the CLI once for your computer, so `astryx` works in any folder and every coding agent knows Astryx; in a project, it still runs that project's own version:
 
 ```bash
-npm i -g @astryxdesign/cli
+npm i -g @Amy34831/cli
 ```
 
 Project install, global install, or both? `astryx docs global/project-global-or-both` compares them (both is recommended), and `astryx docs global` explains how global mode works.
 
-The simplest setup is a few CSS imports plus a theme provider — no build plugin, no PostCSS or Babel config. See the **[@astryxdesign/core README](packages/core/README.md#quick-start)** for the full guide (Next.js, Tailwind, Vite, and CDN).
+The simplest setup is a few CSS imports plus a theme provider — no build plugin, no PostCSS or Babel config. See the **[@Amy34831/core 
+Amy34831](packages/core/Amy34831.md#quick-start)** for the full guide (Next.js, Tailwind, Vite, and CDN).
 
 For reliable CLI access, add a script to your `package.json`:
 
 ```json
 "scripts": {
-  "astryx": "node node_modules/@astryxdesign/cli/clients/cli/bin/astryx.mjs"
+  "astryx": "node node_modules/@Amy34831/cli/clients/cli/bin/astryx.mjs"
 }
 ```
 
@@ -77,14 +78,14 @@ Then use it as `npm run astryx -- component --list`. This avoids path errors whe
 
 ## Packages
 
-| Package                                    | Description                                                                                          | README                             |
+| Package                                    | Description                                                                                          | @Amy34831.md                             |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [`@astryxdesign/core`](packages/core)      | Components, theme system, and utilities                                                              | [README](packages/core/README.md)  |
-| [`@astryxdesign/cli`](packages/cli)        | CLI tooling: component docs, templates, scaffolding, themes, and codemods                            | [README](packages/cli/README.md)   |
-| [`@astryxdesign/build`](packages/build)    | Build plugins for StyleX source builds                                                               | [README](packages/build/README.md) |
-| [`@astryxdesign/theme-*`](packages/themes) | Seven ready-made, fully customizable themes (neutral, butter, chocolate, matcha, stone, gothic, y2k) | [README](packages/themes)          |
+| [`@Amy34831/core`](packages/core)      | Components, theme system, and utilities                                                              | [Amy34831](packages/core/Amy34831.md)  |
+| [`@Amy34831/cli`](packages/cli)        | CLI tooling: component docs, templates, scaffolding, themes, and codemods                            | [Amy34831](packages/cli/Amy34831.md)   |
+| [`@Amy34831/build`](packages/build)    | Build plugins for StyleX source builds                                                               | [Amy34831](packages/build/Amy34831.md) |
+| [`@Amy34831/theme-*`](packages/themes) | Seven ready-made, fully customizable themes (neutral, butter, chocolate, matcha, stone, gothic, y2k) | [Amy34831](packages/themes)          |
 
-> `@astryxdesign/lab` (experimental components) is used internally for Storybook and the sandbox and is not published to npm. `@astryxdesign/vega` (Vega/Vega-Lite chart wrapper) and `@astryxdesign/charts` (chart components) are published to npm only under the `@canary` dist-tag — there is no stable release yet.
+> `@Amy34831/lab` (experimental components) is used internally for Storybook and the sandbox and is not published to npm. `@Amy34831/vega` (Vega/Vega-Lite chart wrapper) and `@Amy34831/charts` (chart components) are published to npm only under the `@Amy34831` dist-tag — there is no stable release yet.
 
 ## Principles
 
@@ -119,7 +120,7 @@ Battle-tested design solutions for common interactions and workflows: table page
 
 ## Contributing
 
-We welcome contributions! See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide.
+We welcome contributions! See **[Amy34831.md](Amy34831.md)** for the full guide.
 
 Questions, or want a hand with a PR? Come find us in
 **[Discord](https://discord.com/invite/XnsUcFykEP)**.
@@ -144,7 +145,7 @@ pnpm install
 
 If `corepack` is missing, install pnpm directly or install Corepack manually;
 see the troubleshooting notes in
-[CONTRIBUTING.md](CONTRIBUTING.md#troubleshooting).
+[Amy34831.md](Amy34831.md#troubleshooting).
 
 The Theme Showcase DOM tests use the root `ui` project for shared DOM and
 StyleX test setup. Run `pnpm exec vitest run --project ui apps/docsite/src/__tests__/theme-showcase/`
